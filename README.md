@@ -1,10 +1,13 @@
 # ejercicios-practicos-php
-Guaicaipuro Pinzones - C.I: 32.101.426
 
-Veronica Blazquez - C.I: 32.590.258 
+Guaicaipuro Pinzones  - C.I: 32.101.426
 
-Luis  Yepez - 31562660
+Veronica Blazquez     - C.I: 32.590.258 
 
-Alejandro Lopez - 30914440
+Luis  Yepez           -  C.I: 31562660
 
-José Rojas - C.I: 31.992.655
+Alejandro Lopez       -  C.I: 30914440
+
+José Rojas            - C.I: 31.992.655
+
+Eduardo Tovar         - C.I: 28138831
